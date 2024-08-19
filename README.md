@@ -20,8 +20,8 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Tsadiku-Mengist/OIBSIP/task 1
+   cd Task 1
 
 2. Install dependencies
    ```bash
@@ -62,7 +62,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Tsadiku-Mengist/Your-Repo-Name.git
+   git clone https://github.com/Tsadiku-Mengist/OIBSIP/task 2
 
 2. **Navigate to the Project Directory**:
    ```bash
