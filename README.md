@@ -69,4 +69,39 @@ To set up the project locally, follow these steps:
      cd Task 2
    
  3. **Open index.html in a Web Browser**:
+
+
+    # Temperature Converter(Task 3)
+
+A responsive Temperature Converter built using **Vue.js** and **Tailwind CSS**.
+
+## Features
+
+-Fully responsive design
+-Modern and clean user interface
+-Converts between Celsius, Fahrenheit, and Kelvin
+-Provides error handling for invalid inputs
+-Built with Vue.js for dynamic behavior
+
+## Technologies Used
+
+- **Vue.js**: A progressive JavaScript framework for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+
+## Installation
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Tsadiku-Mengist/OIBSIP/task 3
+   cd Task 3
+
+2. Install dependencies
+   ```bash
+     npm install
+
+3. Start the development server
+   ```bash
+    npm run serve
    
