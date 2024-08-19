@@ -28,5 +28,5 @@ To set up the project locally, follow these steps:
      npm install
 
 3. Start the development server
-
-npm run serve
+   ```bash
+    npm run serve
