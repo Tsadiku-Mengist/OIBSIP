@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
 
 3. Start the development server
    ```bash
-    npm run serve
+    npm run dev
 
    
 # Portfolio Website(Task 2)
@@ -103,5 +103,5 @@ To set up the project locally, follow these steps:
 
 3. Start the development server
    ```bash
-    npm run serve
+    npm run dev
    
