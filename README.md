@@ -24,9 +24,9 @@ To set up the project locally, follow these steps:
    cd your-repository
 
 2. Install dependencies
-   ```bash
+
   npm install
 
 3. Start the development server
-   ```bash
+
 npm run serve
