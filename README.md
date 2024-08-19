@@ -77,11 +77,11 @@ A responsive Temperature Converter built using **Vue.js** and **Tailwind CSS**.
 
 ## Features
 
--Fully responsive design
--Modern and clean user interface
--Converts between Celsius, Fahrenheit, and Kelvin
--Provides error handling for invalid inputs
--Built with Vue.js for dynamic behavior
+- Fully responsive design
+- Modern and clean user interface
+- Converts between Celsius, Fahrenheit, and Kelvin
+- Provides error handling for invalid inputs
+- Built with Vue.js for dynamic behavior
 
 ## Technologies Used
 
